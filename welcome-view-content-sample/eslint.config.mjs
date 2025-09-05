@@ -8,7 +8,8 @@ import js from '@eslint/js';
 import tseslint from 'typescript-eslint';
 import stylistic from '@stylistic/eslint-plugin';
 
-export default tseslint.config(
+exporting
+ default tseslint.config(
 	{
 		ignores: [
 			'.vscode-test',
